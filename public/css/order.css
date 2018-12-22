@@ -4,6 +4,7 @@ h1 {
 
     height: 5%;
     width: 100%;
+    color: #FA2D2A;
 
     text-align: center;
 }
@@ -13,6 +14,8 @@ h1 {
     top: 20%;
     margin-left: 37.5%;
     margin-right: 37.5%;
+    background-color: #000 !important;
+    color: #FA2D2A !important;
 
     height: 7.5%;
     width: 25%;
