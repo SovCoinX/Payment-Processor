@@ -12,7 +12,7 @@
     margin-left: auto;
     margin-right: auto;
     text-align: center;
-
+    font-weight: bold;
     font-size: 24px;
 }
 
@@ -22,6 +22,7 @@ table, tr {
 
 td {
     text-align: center;
+    font-weight: bold;
 }
 
 .productImg {
@@ -36,7 +37,7 @@ td {
     height: 5%;
     width: 100%;
     bottom: 20%;
-
+    font-weight: bold;
     font-size: 24px;
 }
 
@@ -77,8 +78,8 @@ td {
     width: 100%;
     text-align: center;
 
-    background-color: #6ac6d9;
-    color: white;
+    background-color: #000;
+    color: #FA2D2A;
     font-size: 24px;
     text-decoration: none;
 }
