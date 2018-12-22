@@ -62,7 +62,7 @@ h1 {
     width: 33.33%;
 
     float: left;
-
+    font-weight: bold;
     background-color: red;
 }
 
@@ -71,8 +71,8 @@ h1 {
     width: 33.33%;
 
     float: none;
-
-    background-color: lightgreen;
+    font-weight: bold;
+    background-color: #03a300;
 }
 
 #buttons #doneButton {
@@ -80,6 +80,7 @@ h1 {
     width: 33.33%;
 
     float: right;
-
-    background-color: #6ac6d9;
+    color: #fff;
+    font-weight: bold;
+    background-color: #004fa8;
 }
