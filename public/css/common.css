@@ -3,7 +3,7 @@
     padding: 20px 10px;
 
     overflow: hidden;
-    background-color: #6ac6d9;
+    background-color: #000;
 }
 
 .header .right {
@@ -16,7 +16,7 @@
     line-height: 25px;
     border-radius: 4px;
 
-    color: white;
+    color: #FA2D2A;
     font-size: 24px;
     text-decoration: none;
 }
