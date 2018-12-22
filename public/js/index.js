@@ -126,7 +126,7 @@ async function init() {
                 <br>
                 ${window.products.products[i].name}: $${window.products.products[i].usdCost}
                 <br>
-                <button type="button" onclick="subtract(${i})">-</button> Quantity: <span id="product-${i}">0</span> <button type="button" onclick="add(${i})">+</button>
+                <button type="button" style="backgournd-color: red" onclick="subtract(${i})">-</button> Quantity: <span id="product-${i}">0</span> <button type="button" style="background-color: #03a300" onclick="add(${i})">+</button>
             </div>
         `;
 
